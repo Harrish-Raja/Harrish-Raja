@@ -2,7 +2,7 @@
 
 Student @Sri Sairam Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://www.notion.so/Harrish-Raja-10abd0bed4c18019867df4721621e6ce)                                                 
+- 🔭 Here's my [portfolio](https://harrish07.netlify.app/)                                                 
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on ML/AI
 - 📫 How to reach me :
