@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Harrish
 
-Student @Sri Sairam Engineering College
+ML Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌱 I’m currently learning Agentic AI
 - 👯 I’m looking to collaborate on ML/AI , Gen AI
