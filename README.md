@@ -32,5 +32,15 @@ ML Engineer
 
 
 
+
+
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/50/git.png" width="50"/></td>
+    <td><img src="https://img.icons8.com/color/48/figma--v1.png" width="50"/></td>
+  </tr>
+</table>
+
